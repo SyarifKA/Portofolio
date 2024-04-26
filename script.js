@@ -32,6 +32,6 @@ document.addEventListener("DOMContentLoaded", function() {
   if (name != null && name != "") {
     greetingElement.textContent = name;
   } else {
-    greetingElement.textContent = "Hello! Welcome to our website.";
+    greetingElement.textContent = "guys";
   }
 });
